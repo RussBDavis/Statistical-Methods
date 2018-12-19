@@ -1,1 +1,1 @@
-# Statistical-Methods
+# DS502FinalProject
